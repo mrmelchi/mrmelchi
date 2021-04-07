@@ -1,0 +1,1 @@
+print('Inicializa el paquete')
